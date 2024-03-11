@@ -9,6 +9,4 @@
 - 💬 If you need it, you can contact or contact me (85254221251)🌏📞📱
 - 📫 How to reach me: cuaocu@gmail.com
 - ⚡ Interesting fact: I'm ready to help you!!!
-- (https://github.com/IvenLagowan/IvenLagowan/assets/94290469/bb315f98-673a-4782-8d01-6bc41da9f54d)
-
-https://github.com/IvenLagowan/IvenLagowan/pull/2#issue-2180180137
+- 🌏 Link website : https://profile-ivenlagowan.vercel.app/
