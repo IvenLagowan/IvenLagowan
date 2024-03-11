@@ -1,7 +1,11 @@
 ### Hi there 👋
 #### Welcome halaman profile saya..........
 
-![WhatsApp Image 2024-03-11 at 07 07 00_2762e441](https://github.com/IvenLagowan/IvenLagowan/assets/94290469/4c745db9-e239-47c3-8591-f3e820db3ceb)
+
+
+
+https://github.com/IvenLagowan/IvenLagowan/assets/94290469/c8e06259-e681-4e12-97ff-fbc4d32a6e84
+
 
 
 - 🔭 I am a junior developer, and my name is Iven Lagowan
