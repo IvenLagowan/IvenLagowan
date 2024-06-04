@@ -10,7 +10,7 @@
 🤝 I’m looking for help with [Sacode Papua](https://www.sacode.web.id/)<br>🌱 I’m currently learning Laravel <br>💬 Ask me about HTML, CSS, Javascript dan PHP, Laravel<br>
 
 ## 🌏 Sosmed
-1. Facebook: ![download](https://github.com/IvenLagowan/IvenLagowan/assets/94290469/d1c20fae-2e7d-42c3-8d68-0e22993243f9) https://www.facebook.com/edukasicode.comunity <br>
+1. Facebook: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Ftupacopase%3Figsh%3DNW5zemhiMjUyejZ3%26fbclid%3DIwZXh0bgNhZW0CMTAAAR3ejIV9NXZ0W5OeYaUZ9Bqbb--2vjknlySlhC-eDiczhvogtQFXLcoPU9E_aem_ATJ7EGt6JrPlIwXECA5GJS-L9dk2Xpr2Vu7infrLzodIF77F5oacz8D8pwH7spSwhaB7TcZy4RWQD4aCzgS0T4k2&h=AT2Pu6TJmaM1I87eHjYUMh4WKv2U1AoofnnyrvQ2y7JVX1bNulNqJdbWdaQm47DiWxg0dgRTEUOUM4LsKecr47R-YtSDW_1NPHkkBAHiplBKgoa7cOMh-5zREaEN3xfmd-dz9A<br>
 2. Instagram: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) https://www.linkedin.com/in/iven-lagowan-iven-b0a8a6219/
 
 
