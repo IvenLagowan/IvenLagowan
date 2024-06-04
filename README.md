@@ -13,6 +13,27 @@
 1. Facebook: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] https://www.instagram.com/tupacopase/ <br>
 2. Instagram: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) https://www.linkedin.com/in/iven-lagowan-iven-b0a8a6219/
 
+####  Skill
+<br>
+<br>
+<br>
+<br>
+
+![Python](https://img.shields.io/badge/%20-Python-brightgreen)
+![Django](https://img.shields.io/badge/%20-Django%20-green)
+![DRF](https://img.shields.io/badge/%20-DRF-yellow)
+![unittest](https://img.shields.io/badge/%20-unittest-%2328870b)
+![Pytest](https://img.shields.io/badge/%20-Pytest-%2328870b)
+![Psql](https://img.shields.io/badge/%20-PostgreSql%20-blue)
+![Redis](https://img.shields.io/badge/%20-Redis%20-red)
+![Pytorch](https://img.shields.io/badge/%20-Pytorch%20-orange)
+![HTML](https://img.shields.io/badge/%20-HTML-red)
+![CSS](https://img.shields.io/badge/%20-CSS-blue)
+![Bootstrap](https://img.shields.io/badge/%20-Bootstrap%20-%237952b4)
+![Selenium](https://img.shields.io/badge/%20-Selenium-lightgrey)
+![Rust](https://img.shields.io/badge/%20-Rust-black)
+![Axum](https://img.shields.io/badge/%20-Axum-white)
+
 
 
 
