@@ -10,8 +10,8 @@
 🤝 I’m looking for help with [Sacode Papua](https://www.sacode.web.id/)<br>🌱 I’m currently learning Laravel <br>💬 Ask me about HTML, CSS, Javascript dan PHP, Laravel<br>
 
 ## 🌏 Sosmed
-1. Facebook: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) https://www.facebook.com/edukasicode.comunity <br>
-2. Instagram: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+1. Facebook: ![download](https://github.com/IvenLagowan/IvenLagowan/assets/94290469/d1c20fae-2e7d-42c3-8d68-0e22993243f9) https://www.facebook.com/edukasicode.comunity <br>
+2. Instagram: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) https://www.linkedin.com/in/iven-lagowan-iven-b0a8a6219/
 
 
 
