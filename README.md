@@ -2,8 +2,16 @@
 #### Welcome halaman profile saya..........
 
 
+<h1 align="center">Hi 👋, I'm Chua Lagowan</h1>
+<h3 align="center">A passionate Web developer from papua</h3>
 
-https://github.com/IvenLagowan/IvenLagowan/assets/94290469/1bb3b8f1-129d-44c8-9629-831c07e0dec3
+
+# 💫 About Me:
+🤝 I’m looking for help with [Sacode Papua](https://www.sacode.web.id/)<br>🌱 I’m currently learning Laravel <br>💬 Ask me about HTML, CSS, Javascript dan PHP, Laravel<br>
+
+##Sosmed
+https://www.facebook.com/profile.php?id=61557283113206
+https://www.instagram.com/tupacopase?igsh=NW5zemhiMjUyejZ3
 
 
 
