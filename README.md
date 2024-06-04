@@ -13,10 +13,7 @@
 1. Facebook: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] https://www.instagram.com/tupacopase/ <br>
 2. Instagram: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) https://www.linkedin.com/in/iven-lagowan-iven-b0a8a6219/
 
-####  Skill
-<br>
-<br>
-<br>
+####  🌏Skill</>>
 <br>
 
 ![Python](https://img.shields.io/badge/%20-Python-brightgreen)
