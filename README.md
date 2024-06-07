@@ -23,11 +23,7 @@
 
 <h2 align="left">Languages and Tools I Papua</h2>
 
-
-
-<h1 align="center">Hi 👋, I'm Chua Lagowan</h1>
-<h3 align="center">A passionate Web developer from papua</h3>
-
+<br>
 
 # 💫 About Me:
 🤝 I’m looking for help with [Sacode Papua](https://www.sacode.web.id/)<br>🌱 I’m currently learning Laravel <br>💬 Ask me about HTML, CSS, Javascript dan PHP, Laravel<br>
