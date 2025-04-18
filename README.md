@@ -114,59 +114,6 @@
 <br/><br/>
 
 <br/>
-<h1 align="center">
-    <img src="https://i.imgur.com/5JdpL1p.png" />
-</h1>
-<br/>
-<hr/>
-<h2 align="center">👋 Social Links 👋</h2>
-<br/>
-<div align="center"> 
-   <a href="https://www.linkedin.com/in/md-samiul-alam-khan-a2441b239/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://x.com/RiadKhan60">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
-  </a>
-   <a href="https://www.facebook.com/riadkhann.60" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
-   <a href="https://www.instagram.com/riad.khan60" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-   <a href="https://www.threads.net/@riad.khan60" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" target="_blank" />
-  </a>
-   <a href="https://www.quora.com/profile/Riad-Khan-5" target="_blank">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<div align="center"> 
-   <a href="https://wa.link/7sle37">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
-  </a>
-   <a href="https://t.me/riad600">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
-  </a>
-   <a href="https://discord.com/users/pew8629">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
-  </a>
-</div>
-<div align="center">
-<a href="https://leetcode.com/u/riad60/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
-  </a>
-  <a href="https://github.com/riadkhan60">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.npmjs.com/~riadkhan60">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<br/>
-
-
 
 <br/>
 
